@@ -2,6 +2,10 @@
 
 As of 2018-03-30.
 
+Here is a blog post:
+
+https://dev.to/bufferings/access-host-from-a-docker-container-4099
+
 ## How to check
 
 Prepare a target.
