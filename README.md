@@ -27,5 +27,5 @@ docker build -t docker-access-host:demo .
 # Run. You should be able to see nginx result & hosts file
 docker run --rm docker-access-host:demo
 
-# It only has host.docker.internal only if the host is Linux
+# It has host.docker.internal only when the host is Linux
 ```
